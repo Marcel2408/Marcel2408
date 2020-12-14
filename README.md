@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑 I'm a full stack developer with previous experience in business and team management.
+🧑 I'm a full stack developer with previous experience in business and team management.\n
 I love developing products that hopefully improve someone's life. 
 Aiming to be as technology agnostic as possible.
 Always up to try new technologies and find new ways of coding both frontend and backend.
